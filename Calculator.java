@@ -35,7 +35,7 @@ public class Calculator {
             } else {
                 System.out.println("Invalid Operation!!");
             }
-        System.out.println("Answer: " + ans);
+            System.out.println("Answer: " + ans);
         }
     in.close();
     }
