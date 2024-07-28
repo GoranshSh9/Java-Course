@@ -6,7 +6,7 @@ public class Methods {
         Scanner in = new Scanner(System.in);
         int a = in.nextInt();
         System.out.println(a);
-        int a = 1000;
+        int b = 10 ;
         in.close();
     }
 }
