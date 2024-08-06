@@ -23,11 +23,3 @@ public class Search2DArrays {
         return new int[]{-1, -1};
     }
 }
-//adeidedsjdfsjdd dcbscd sidjc sc s dcscidscjseicsc cscx sc scanner 
-// wagsfjhgkholj  reytrbuggggf6y uhkkjhnjn uyuyiutiutu sedfsx
-// adeidedsjdfsjdd dcbscd sidjc sc s dcscidscjseicsc cscx sc scanner 
-// wagsfjhgkholj  reytrbuggggf6y uhkkjhnjn uyuyiutiutu sedfsx
-//adeidedsjdfsjdd dcbscd sidjc sc s dcscidscjseicsc cscx sc scanner 
-// wagsfjhgkholj  reytrbuggggf6y uhkkjhnjn uyuyiutiutu sedfsx
-// adeidedsjdfsjdd dcbscd sidjc sc s dcscidscjseicsc cscx sc scanner 
-// wagsfjhgkholj  reytrbuggggf6y uhkkjhnjn uyuyiutiutu sedfsx
