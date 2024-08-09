@@ -23,5 +23,3 @@ public class Search2DArrays {
         return new int[]{-1, -1};
     }
 }
-//qweertyuiopasdfghjkl
-//qweertyuiopasdfghjkl
